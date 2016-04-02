@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
     <!-- Google App Engine application project name like myproject.appspot.com -->
-    <application>FotoKonkursProject</application>
-    <version>1</version>
+    <application>fotokonkurs-1245</application>
+    <version>01c-snapshot</version>
     <threadsafe>true</threadsafe>
 
     <!-- Configure serving/caching of GWT files -->
